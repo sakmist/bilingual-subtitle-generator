@@ -6,6 +6,7 @@
 
 A web application for generating bilingual subtitles from video files or translating existing SRT subtitles. Powered by OpenAI's Whisper for speech recognition and custom translation API.
 
+[![中文文档](https://github.com/sakmist/bilingual-subtitle-generator/blob/main/readme_cn)]
 ## Features
 
 - 🎥 Video to Bilingual Subtitles
