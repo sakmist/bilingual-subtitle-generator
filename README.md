@@ -24,7 +24,7 @@ A web application for generating bilingual subtitles from video files or transla
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/bilingual-subtitle-generator.git
+git clone https://github.com/sakmist/bilingual-subtitle-generator.git
 cd bilingual-subtitle-generator
 
 # Install dependencies
@@ -110,9 +110,9 @@ MIT License. See [LICENSE](LICENSE) for details.
 
 Contributions welcome! Please follow these steps:
 1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
+2. Create your feature branch
+3. Commit your changes
+4. Push to the branch
 5. Open a Pull Request
 
 ---
