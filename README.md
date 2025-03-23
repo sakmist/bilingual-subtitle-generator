@@ -54,8 +54,9 @@ Open `http://localhost:5000` in your browser
   1. Upload existing SRT file
   2. Select target language
   3. Download translated SRT
+![屏幕截图 2025-03-23 150235](https://github.com/user-attachments/assets/709910fb-4473-4fd7-b77a-27cdca603946)
 
-![Web Interface Demo](demo-screenshot.png)
+
 
 ## Configuration
 
